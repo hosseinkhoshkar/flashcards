@@ -1,6 +1,6 @@
 package com.GISMA.flashcards.service;
 
-import com.GISMA.flashcards.mongo.UserSettings;
+import com.GISMA.flashcards.model.UserSettings;
 import com.GISMA.flashcards.repository.UserSettingsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

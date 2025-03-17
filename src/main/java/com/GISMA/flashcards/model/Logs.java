@@ -1,4 +1,4 @@
-package com.GISMA.flashcards.mongo;
+package com.GISMA.flashcards.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

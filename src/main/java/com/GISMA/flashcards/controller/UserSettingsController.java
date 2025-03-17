@@ -1,6 +1,6 @@
 package com.GISMA.flashcards.controller;
 
-import com.GISMA.flashcards.mongo.UserSettings;
+import com.GISMA.flashcards.model.UserSettings;
 import com.GISMA.flashcards.service.UserSettingsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

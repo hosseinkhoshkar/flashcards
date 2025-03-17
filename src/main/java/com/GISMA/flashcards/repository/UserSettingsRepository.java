@@ -1,6 +1,6 @@
 package com.GISMA.flashcards.repository;
 
-import com.GISMA.flashcards.mongo.UserSettings;
+import com.GISMA.flashcards.model.UserSettings;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
